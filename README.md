@@ -1,2 +1,2 @@
-# server
+# Server
 System Administration
